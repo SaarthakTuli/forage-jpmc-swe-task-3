@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/eslint-parser": "^7.21.8",
     "@finos/perspective": "^1.6.2",
     "@finos/perspective-viewer": "^1.6.2",
     "@finos/perspective-viewer-d3fc": "^1.6.2",
@@ -35,6 +36,6 @@
   "devDependencies": {
     "awesome-typescript-loader": "^5.2.1",
     "source-map-loader": "^0.2.4",
-    "typescript": "^3.2.4"
+    "typescript": "^3.9.10"
   }
 }
